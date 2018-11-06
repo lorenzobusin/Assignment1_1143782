@@ -1,5 +1,6 @@
 1143782
 PIZZERIA BELLA NAPOLI
-[Margherita](margherita.md)
-[Capricciosa](capricciosa.md)
+Pizze:
+[Margherita](Pizze/margherita.md)
+[Capricciosa](Pizze/capricciosa.md)
 
