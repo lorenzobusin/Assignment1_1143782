@@ -6,3 +6,4 @@ Pizze:
 
 Primi:
 [Bucatini alla matriciana](Primi/bucatini_matriciana.md)
+[Spaghetti alla carbonara](Primi/spaghetti_carbonara.md)
